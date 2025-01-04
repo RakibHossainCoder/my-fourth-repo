@@ -1,0 +1,28 @@
+
+
+.box1{
+    height: 100px;
+    width: 100px;
+    
+    background-color: rgb(222, 233, 30);
+    border: 9px solid rgb(191, 110, 11);
+    border-radius: 15px;
+}
+
+.box2{
+    height: 100px;
+    width: 100px;
+    background-color: antiquewhite;
+    border: 9px solid rgb(147, 22, 138);
+    border-radius: 15px;
+    
+
+
+}
+
+
+div{
+    background-color: cadetblue;
+    border: 10px double coral;
+    border-radius: 15px;
+}
